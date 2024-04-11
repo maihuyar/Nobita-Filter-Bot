@@ -56,7 +56,7 @@ class script(object):
 🎬  ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛɪɴɢ ɢʀᴏᴜᴘ.</b>"""
 
     BUTTON_TXT = """
-<b>💵 ɪ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛᴏ ʏᴏᴜ 💸
+<b>💵 ɪ ᴋɪɴᴅʟʏ ʀᴇǫᴜᴇsᴛ ʏᴏᴜ ᴘʟᴇᴀsᴇ ɪᴏɪɴ ᴜs ᴀɴᴅ ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛɪɴɢ ᴜs sᴏ ᴡᴇ ᴄᴀɴ ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ʏᴏᴜ ʙʏ ᴘʀᴏᴠɪᴅɪɴɢ ᴍᴏᴠɪᴇs
 
 ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ꜰᴏʀ ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ sᴇʀᴠɪᴄᴇ ᴀʟɪᴠᴇ & ᴋᴇᴇᴘ ʙʀɪɴɢɪɴɢ ᴍᴏʀᴇ ɴᴇᴡ ꜰᴇᴀᴛᴜʀᴇs ꜰᴏʀ ʏᴏᴜ....</b>
 
@@ -68,8 +68,7 @@ class script(object):
 
 we dont take money from our user 🥲
 
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/ur_discussion'>◉𝗔𝗦𝗛𝗜𝗦𝗛 𝗬𝗔𝗗𝗔𝗩◉⃑</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/KissuXde vil'>「𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪」</a></b>"""
+<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/kissuXdevil'>「𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪」</a>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
